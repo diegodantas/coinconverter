@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\coin-converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_history.xml",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\coin-converter\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\coin-converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_history.xml",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\coin-converter\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\coin-converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\coin-converter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

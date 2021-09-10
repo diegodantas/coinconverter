@@ -1,0 +1,16 @@
+br/com/dio/coinconverter/databinding/ItemHistoryBinding.java
+ br.com.dio.coinconverter.databinding.ItemHistoryBinding
+br/com/dio/coinconverter/databinding/ActivityMainBinding.java
+ br.com.dio.coinconverter.databinding.ActivityMainBinding
+br/com/dio/coinconverter/BuildConfig.java
+ br.com.dio.coinconverter.BuildConfig
+br/com/dio/coinconverter/databinding/ActivityHistoryBinding.java
+ br.com.dio.coinconverter.databinding.ActivityHistoryBinding
+br/com/dio/coinconverter/data/database/dao/ExchangeDao_Impl.java
+ br.com.dio.coinconverter.data.database.dao.ExchangeDao_Impl
+ br.com.dio.coinconverter.data.database.dao.ExchangeDao_Impl$1
+ br.com.dio.coinconverter.data.database.dao.ExchangeDao_Impl$2
+ br.com.dio.coinconverter.data.database.dao.ExchangeDao_Impl$3
+br/com/dio/coinconverter/data/database/AppDatabase_Impl.java
+ br.com.dio.coinconverter.data.database.AppDatabase_Impl
+ br.com.dio.coinconverter.data.database.AppDatabase_Impl$1
